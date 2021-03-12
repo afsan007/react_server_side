@@ -100,7 +100,7 @@
 		"postcss-pxtorem": "^4.0.1",
 		"postcss-resemble-image": "^2.1.1",
 		"prettier": "^1.19.1",
-		"react-dev-utils": "^10.1.0",
+		"react-dev-utils": "^11.0.4",
 		"sass": "^1.25.0",
 		"sass-loader": "^8.0.2",
 		"style-loader": "^1.1.3",
